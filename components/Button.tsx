@@ -19,5 +19,4 @@ const Button = ({ type, title, icon, variant }: ButtonProps) => {
     )
 }
 
-
 export default Button
